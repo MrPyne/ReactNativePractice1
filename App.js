@@ -13,7 +13,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={{alignItems: 'center'}}>
-        <Greeting name='Rexxar' />
+        <Greeting name='Jill' />
         <Greeting name='Jaina' />
         <Greeting name='Valeera' />
         <Greeting name='Matt' />
